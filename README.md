@@ -1,2 +1,2 @@
 # cauchy-residue
-Code to solve complex integrals 
+code to solve complex integrals in java
